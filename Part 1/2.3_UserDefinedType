@@ -1,0 +1,3 @@
+using c++ abstraction a user is able to define their own types (classes, e
+numeration). These types are built atop of the fundamental types such 
+as const and int etc...
