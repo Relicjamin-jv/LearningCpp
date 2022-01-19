@@ -1,0 +1,2 @@
+Error Handling increases the chance the compiler finds errors
+This is useful when using libraries and when projects become bigger.

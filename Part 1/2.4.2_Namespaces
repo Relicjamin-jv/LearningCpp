@@ -1,0 +1,10 @@
+namespaces are a mechanism for epressing that some declarations belong together
+and their names shouldn't be mixed with other names.
+
+
+std is a namespace, can make your own namespace
+
+example:
+    My_code(namespace)::main();
+
+this reference is to my_code namespace and calls that namespace main.
