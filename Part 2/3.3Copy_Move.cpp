@@ -37,8 +37,7 @@ bool operator==(complex a, complex b)
 
 /**
  * @brief can copy between user defined type, for example the complex member above
- * 
- * 
+ * The copy happens by memberwise copy: copy each member
  */
 
 void test(complex z1){
